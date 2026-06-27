@@ -1,1 +1,0 @@
-Business rules applied as requested.
